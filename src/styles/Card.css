@@ -1,0 +1,16 @@
+.card {
+	padding: 0.5rem;
+}
+
+.card-img {
+	display: block;
+	height: auto;
+	width: 100%;
+	background-color: #333;
+}
+
+.card-description {
+	font-style: italic;
+	font-size: 2rem;
+	margin: 0.3rem;
+}

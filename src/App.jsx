@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import './App.css';
-import Loader from './components/Loader';
+import Loader from './components/Loader.jsx';
 import Card from './components/Card.jsx';
 import ScoreBoard from './components/ScoreBoard.jsx';
 
